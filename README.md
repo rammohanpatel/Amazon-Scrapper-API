@@ -28,7 +28,7 @@ To set up the Amazon Scraper API on your local machine, follow these steps:
 ## Usage
 
 To run the Amazon Scraper API on your local machine, execute the following command:
-npm start
+`node index.js`
 
 
 This will start the server, and the API will be accessible at `http://localhost:5000`.
@@ -72,6 +72,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions, feedback, or suggestions, feel free to contact the project owner:
 
 - Email: [mram41614@gmail.com](mailto:your.email@example.com)
-- GitHub: [rammohanpatel](https://github.com/YourGitHubUsername)
+- GitHub: [rammohanpatel](https://github.com/rammohanpatel)
 
 
