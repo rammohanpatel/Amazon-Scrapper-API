@@ -1,6 +1,6 @@
 # Amazon-Scrapper-API
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Description
 
@@ -14,7 +14,6 @@ The Amazon Scraper API is a powerful web scraping tool built using Express and r
 - [Error Handling](#error-handling)
 - [API Key Authentication](#api-key-authentication)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Installation
@@ -62,10 +61,6 @@ Contributions to the Amazon Scraper API are welcome! To contribute, follow these
 3. Commit your changes: `git commit -m 'Add some feature'`.
 4. Push the branch to your fork: `git push origin feature/your-feature-name`.
 5. Create a pull request on the original repository.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
